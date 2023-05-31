@@ -126,9 +126,6 @@ body {
  padding: 20px;
 background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
 }
-.coder {
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-}
 
 .min-temp {
   color: #ba5407
@@ -141,7 +138,5 @@ background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961
  padding: 20px;
 background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80");
 }
-.coder {
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-}
+
 </style>
